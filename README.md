@@ -9,7 +9,7 @@ we are expecting 100 + attendees.
 | # | Activity | Amount | Lead   |
 |---|----------|--------|--------|
 | 1 | Prize    | 50,000 | -      |
-| 2 | A Meal   | 50,000 | Funded |
+| 2 | A Meal   | 50,000 | Funded (350 x 143) |
 | 3 | Merch    | 20,000 | —      |
 
 
