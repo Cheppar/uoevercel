@@ -31,5 +31,4 @@ the Hackathon will have specific judging criteria which will guide judges and pa
 **‍Design**: A clean, functional, and professional design can go a long way. Pay attention to the aesthetics of projects and make sure it is presented well.
 
 ## Script
-- Atueyii - collide
-- cest ssa fai - souf
+Completed
